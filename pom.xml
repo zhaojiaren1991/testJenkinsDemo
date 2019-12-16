@@ -38,6 +38,7 @@
     </dependencies>
 
     <build>
+        <finalName>testJk</finalName> <!-- 指定package生成的文件名为my-spring-boot.jar -->
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
